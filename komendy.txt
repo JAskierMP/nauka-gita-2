@@ -1,1 +1,1 @@
-jest
+html-validate *html
